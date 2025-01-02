@@ -19,7 +19,7 @@ const PhoneInputScreen = () => {
   return (
     <KeyboardAvoidingView style={styles.container} behavior="padding">
       <View style={styles.header}>
-        <Text style={styles.title}>Đăng nhập</Text>
+        <Text style={styles.title}>Đăng Nhập</Text>
       </View>
       <View style={styles.content}>
         <Text style={styles.subtitle}>Nhập số điện thoại</Text>
